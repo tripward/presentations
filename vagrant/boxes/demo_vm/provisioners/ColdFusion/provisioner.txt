@@ -1,0 +1,5 @@
+  # install cf
+    config.vm.provision :shell, path: "provisioners/ColdFusion/install_cf.cmd"
+
+    # now that all the sites are set up, connect cf to them
+    config.vm.provision :shell, path: "provisioners/ColdFusion/install_CF_WebConnector.ps1"

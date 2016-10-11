@@ -1,0 +1,1 @@
+{"virtualbox":{"c:/website":{"guestpath":"c:/website","hostpath":"E:/VMs/presentations_again/presentations_again/vagrant/boxes/demo_vm/website","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"E:/VMs/presentations_again/presentations_again/vagrant/boxes/demo_vm","disabled":false}}}
