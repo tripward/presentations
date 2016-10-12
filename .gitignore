@@ -2,3 +2,4 @@ vagrant/~$instantCF.pptx
 *.project
 .settings/org.eclipse.core.resources.prefs
 settings.xml
+vagrant/boxes/demo_vm2016/provisioners/ColdFusion/ColdFusion_2016_WWEJ_win64.exe
